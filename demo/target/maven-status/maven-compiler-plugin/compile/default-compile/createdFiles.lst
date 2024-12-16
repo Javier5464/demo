@@ -1,0 +1,7 @@
+org\example\demo\HelloApplication.class
+org\example\demo\FormularioEditorialController.class
+org\example\demo\FormularioLibroController.class
+org\example\demo\HelloController.class
+org\example\demo\FormularioAsociarController.class
+module-info.class
+org\example\demo\FormularioAutorController.class
